@@ -1,5 +1,6 @@
 # Soporte-para-Spindle-impresion-3D-
 Archivo .gcode 
+
 Video de instalación:
 https://www.youtube.com/watch?v=qxP8OE8WIKg&t=1s
 
